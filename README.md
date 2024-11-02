@@ -47,4 +47,4 @@ The ANN model is built with multiple hidden layers, each layer using ReLU activa
 # OR
 
 **Access the model by this Deployed Link**
-[Bank Churn Classifier Deployment]([https://your-deployment-link.com](https://emailspamhammodel.streamlit.app/))
+[Bank Churn Classifier Deployment](https://emailspamhammodel.streamlit.app/)
