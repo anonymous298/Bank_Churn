@@ -33,3 +33,18 @@ The ANN model is built with multiple hidden layers, each layer using ReLU activa
 
    ```bash
    git clone https://github.com/anonymous298/Bank_Churn.git
+
+2. **Install the required packages:**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the model:**
+
+   ```bash
+   streamlit run app.py
+
+# OR
+
+**Access the model by this Deployed Link**
+[Bank Churn Classifier Deployment]([https://your-deployment-link.com](https://emailspamhammodel.streamlit.app/))
